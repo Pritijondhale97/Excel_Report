@@ -21,7 +21,7 @@ Microsoft Excel
 
 Pivot Tables & Pivot Charts
 
-VLOOKUP / XLOOKUP / IF formulas
+VLOOKUP / IF formulas
 
 Data Validation & Conditional Formatting
 
